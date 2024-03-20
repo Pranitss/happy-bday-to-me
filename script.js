@@ -131,7 +131,6 @@ class Firework {
       ctx.arc(this.x, this.y, 1, 0, PI2, false)
       ctx.fill()
     }
-
   }
 }
 
